@@ -1,0 +1,18 @@
+{
+    "name": "",
+    "icons": [
+        {
+            "src": "C:\\WorkTools\\workSpace\\propios\\Udemy\\CSS HTML 5\\Killer Website\\Omnifood\\resources\\favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "C:\\WorkTools\\workSpace\\propios\\Udemy\\CSS HTML 5\\Killer Website\\Omnifood\\resources\\favicons/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#bd8989",
+    "background_color": "#bd8989",
+    "display": "standalone"
+}
